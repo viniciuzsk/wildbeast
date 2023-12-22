@@ -23,7 +23,7 @@ Wildbeast é um projeto fictício que foi criado com o objetivo de aplicar e con
 
 1. Clone o repositório para o seu ambiente local:
    ```bash
-   git clone https://github.com/seu-usuario/wildbeast.git
+   git clone https://github.com/viniciuzsk/wildbeast.git
 
 
 <img src="img/imagem.png" alt="">
