@@ -1,7 +1,4 @@
 # Wildbeast
-
-![Wildbeast Logo](link_para_o_seu_logo.png)
-
 Projeto fictício e responsivo desenvolvido como parte do curso de Grid Layout da Origamid.
 
 ## Descrição
@@ -20,6 +17,8 @@ Wildbeast é um projeto fictício que foi criado com o objetivo de aplicar e con
 
 ## Veja o resultado online
 
+[Acesse :)](https://viniciuzsk.github.io/wildbeast/)
+ 
 ## Como Baixar e Executar o Projeto
 
 1. Clone o repositório para o seu ambiente local:
